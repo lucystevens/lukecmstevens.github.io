@@ -1,0 +1,36 @@
+.top-bar {
+	border-top: 5px solid #4472c4;
+}
+
+h1{
+	text-shadow: 2px 2px #748b99;
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+div{
+	font-family: Rockwell, "Courier Bold", Courier, Georgia, Times, "Times New Roman", serif;
+}
+
+div.top-bar div{
+	padding: 15px;
+}
+
+.name{
+	margin-top:25%;
+	font-size: 10em;
+	text-shadow: 4px 4px #748b99;
+}
+
+.learn-more{
+	margin-top: 100px;
+	color: #000;
+	text-decoration: none;
+}
+
+a.no-hover:hover{
+	color: #222;
+	text-decoration: none;
+}
