@@ -23,7 +23,7 @@ div.top-bar div{
 .name{
 	margin-top:10%;
 	font-size: 3em;
-	text-shadow: 4px 4px #748b99;
+	text-shadow: 2px 2px #748b99;
 }
 
 .job {
@@ -45,7 +45,7 @@ a.no-hover:hover{
 	.name{
 		margin-top:25%;
 		font-size: 6em;
-		text-shadow: 2px 2px #748b99;
+		text-shadow: 4px 4px #748b99;
 	}
 	
 	.job {
