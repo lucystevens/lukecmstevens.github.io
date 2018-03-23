@@ -28,10 +28,8 @@ html {
 }
 
 .intro-section {
-	/*background-image: url("intro-bg.png");*/
 	background: #fff;
-	height: 100%;
-    padding-top: 100px;
+    padding: 100px 0px;
     text-align: center;
 }
 
